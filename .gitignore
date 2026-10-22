@@ -1,0 +1,9 @@
+# 编译产物
+Main
+*.o
+*.d
+
+# 运行时产物
+log/
+*.log
+nohup.out
